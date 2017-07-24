@@ -1,0 +1,9 @@
+{
+  "firebase": "bc-chat-room",
+  "public": "app",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
